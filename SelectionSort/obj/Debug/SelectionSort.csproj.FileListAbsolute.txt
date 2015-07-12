@@ -1,0 +1,6 @@
+E:\SEIP Training\JquereyPractice\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+E:\SEIP Training\JquereyPractice\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+E:\SEIP Training\JquereyPractice\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+E:\SEIP Training\JquereyPractice\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+E:\SEIP Training\JquereyPractice\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+E:\SEIP Training\JquereyPractice\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb
